@@ -1,0 +1,2 @@
+C:\Users\Asfend\Documents\Xamarin Batch April\GlobalUCP\GlobalUCP\GlobalUCP.Windows\GlobalUCP.Windows.csproj;neutral
+C:\Users\Asfend\Documents\Xamarin Batch April\GlobalUCP\GlobalUCP\GlobalUCP\GlobalUCP.csproj;neutral

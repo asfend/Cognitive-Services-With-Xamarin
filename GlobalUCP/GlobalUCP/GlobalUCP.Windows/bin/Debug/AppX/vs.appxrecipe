@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-N17J10J</Machine>
+    <WindowsUser>Asfend</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a1347980-52b4-4ac3-aac8-2dbc6fcca628</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Asfend</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Asfend\Documents\Xamarin Batch April\GlobalUCP\GlobalUCP\GlobalUCP.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>7EDEF4DF04C4B78C0B311027054081893137755754F2B99C6544C314FE9F1453</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a1347980-52b4-4ac3-aac8-2dbc6fcca628_1.0.0.0_neutral__tae5pbsr571cm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a1347980-52b4-4ac3-aac8-2dbc6fcca628_tae5pbsr571cm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a1347980-52b4-4ac3-aac8-2dbc6fcca628</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Asfend</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Asfend\Documents\Xamarin Batch April\GlobalUCP\GlobalUCP\GlobalUCP.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-22T11:57:30.980</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Asfend\Documents\Xamarin Batch April\GlobalUCP\GlobalUCP\GlobalUCP.Windows\bin\Debug\GlobalUCP.Windows.exe">
+      <PackagePath>GlobalUCP.Windows.exe</PackagePath>
+      <Modified>2017-04-22T11:57:29.990</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asfend\Documents\Xamarin Batch April\GlobalUCP\GlobalUCP\GlobalUCP\bin\Debug\GlobalUCP.dll">
+      <PackagePath>GlobalUCP.dll</PackagePath>
+      <Modified>2017-04-22T11:57:28.884</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asfend\Documents\Xamarin Batch April\GlobalUCP\packages\Microsoft.ProjectOxford.Vision.1.0.393\lib\portable-net45+win+wpa81+wp80+MonoAndroid10+xamarinios10+MonoTouch10\Microsoft.ProjectOxford.Vision.dll">
+      <PackagePath>Microsoft.ProjectOxford.Vision.dll</PackagePath>
+      <Modified>2017-04-19T07:38:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asfend\Documents\Xamarin Batch April\GlobalUCP\packages\Newtonsoft.Json.8.0.2\lib\portable-net45+wp80+win8+wpa81+dnxcore50\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2016-01-09T08:50:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asfend\Documents\Xamarin Batch April\GlobalUCP\packages\Xam.Plugin.Media.2.6.2\lib\win8\Plugin.Media.Abstractions.dll">
+      <PackagePath>Plugin.Media.Abstractions.dll</PackagePath>
+      <Modified>2017-01-06T16:20:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asfend\Documents\Xamarin Batch April\GlobalUCP\packages\Xam.Plugin.Media.2.6.2\lib\win8\Plugin.Media.dll">
+      <PackagePath>Plugin.Media.dll</PackagePath>
+      <Modified>2017-01-06T16:20:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asfend\Documents\Xamarin Batch April\GlobalUCP\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Core.dll">
+      <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
+      <Modified>2017-01-05T11:25:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asfend\Documents\Xamarin Batch April\GlobalUCP\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Platform.dll">
+      <PackagePath>Xamarin.Forms.Platform.dll</PackagePath>
+      <Modified>2017-01-05T11:25:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asfend\Documents\Xamarin Batch April\GlobalUCP\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Platform.WinRT.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.dll</PackagePath>
+      <Modified>2017-01-05T11:25:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asfend\Documents\Xamarin Batch April\GlobalUCP\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet.dll</PackagePath>
+      <Modified>2017-01-05T11:25:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asfend\Documents\Xamarin Batch April\GlobalUCP\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Xaml.dll">
+      <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
+      <Modified>2017-01-05T11:25:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asfend\Documents\Xamarin Batch April\GlobalUCP\GlobalUCP\GlobalUCP.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-22T11:29:22.349</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asfend\Documents\Xamarin Batch April\GlobalUCP\GlobalUCP\GlobalUCP.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-22T11:29:22.352</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asfend\Documents\Xamarin Batch April\GlobalUCP\GlobalUCP\GlobalUCP.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-22T11:29:22.354</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asfend\Documents\Xamarin Batch April\GlobalUCP\GlobalUCP\GlobalUCP.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-22T11:29:22.355</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asfend\Documents\Xamarin Batch April\GlobalUCP\GlobalUCP\GlobalUCP.Windows\bin\Debug\GlobalUCP.Windows.xr.xml">
+      <PackagePath>GlobalUCP.Windows.xr.xml</PackagePath>
+      <Modified>2017-04-22T11:48:59.380</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asfend\Documents\Xamarin Batch April\GlobalUCP\GlobalUCP\GlobalUCP.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-04-22T11:48:59.732</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asfend\Documents\Xamarin Batch April\GlobalUCP\GlobalUCP\GlobalUCP.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-04-22T11:48:59.747</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asfend\Documents\Xamarin Batch April\GlobalUCP\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Platform.WinRT\PageControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\PageControl.xbf</PackagePath>
+      <Modified>2017-01-05T11:25:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asfend\Documents\Xamarin Batch April\GlobalUCP\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Platform.WinRT\StepperControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\StepperControl.xbf</PackagePath>
+      <Modified>2017-01-05T11:25:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asfend\Documents\Xamarin Batch April\GlobalUCP\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml</PackagePath>
+      <Modified>2017-01-05T11:25:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asfend\Documents\Xamarin Batch April\GlobalUCP\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\FormsTextBoxStyle.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\FormsTextBoxStyle.xbf</PackagePath>
+      <Modified>2017-01-05T11:25:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asfend\Documents\Xamarin Batch April\GlobalUCP\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf</PackagePath>
+      <Modified>2017-01-05T11:25:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asfend\Documents\Xamarin Batch April\GlobalUCP\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf</PackagePath>
+      <Modified>2017-01-05T11:25:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asfend\Documents\Xamarin Batch April\GlobalUCP\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml</PackagePath>
+      <Modified>2017-01-05T11:25:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asfend\Documents\Xamarin Batch April\GlobalUCP\GlobalUCP\GlobalUCP.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2017-04-22T11:57:30.349</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

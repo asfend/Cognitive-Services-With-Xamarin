@@ -1,0 +1,15 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\asfend\documents\xamarin batch april\globalucp\globalucp\globalucp.windows\obj\debug\intermediatexaml\globalucp.windows.exe" HashGuid="58bc184f-876d-c41f-8c0f-1b0413e65fff" />
+    <ReferenceAssembly PathName="c:\users\asfend\documents\xamarin batch april\globalucp\globalucp\globalucp\bin\debug\globalucp.dll" HashGuid="1126731a-3650-b07f-6b97-9cf91d1ea796" />
+    <ReferenceAssembly PathName="c:\users\asfend\documents\xamarin batch april\globalucp\packages\microsoft.projectoxford.vision.1.0.393\lib\portable-net45+win+wpa81+wp80+monoandroid10+xamarinios10+monotouch10\microsoft.projectoxford.vision.dll" HashGuid="0055d943-95ac-3607-dc60-313b7d4469ac" />
+    <ReferenceAssembly PathName="c:\users\asfend\documents\xamarin batch april\globalucp\packages\newtonsoft.json.8.0.2\lib\portable-net45+wp80+win8+wpa81+dnxcore50\newtonsoft.json.dll" HashGuid="38db4215-06d8-4b50-81fc-8e6b502244af" />
+    <ReferenceAssembly PathName="c:\users\asfend\documents\xamarin batch april\globalucp\packages\xam.plugin.media.2.6.2\lib\win8\plugin.media.abstractions.dll" HashGuid="2f026a7c-41cf-6c4a-d5ab-5661045873a2" />
+    <ReferenceAssembly PathName="c:\users\asfend\documents\xamarin batch april\globalucp\packages\xam.plugin.media.2.6.2\lib\win8\plugin.media.dll" HashGuid="7f014772-d7e3-ddb4-76f7-34221fb44f13" />
+    <ReferenceAssembly PathName="c:\users\asfend\documents\xamarin batch april\globalucp\packages\xamarin.forms.2.3.3.180\lib\win81\xamarin.forms.core.dll" HashGuid="c782f70f-077f-7e2d-5bd4-f6b5da067f8a" />
+    <ReferenceAssembly PathName="c:\users\asfend\documents\xamarin batch april\globalucp\packages\xamarin.forms.2.3.3.180\lib\win81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
+    <ReferenceAssembly PathName="c:\users\asfend\documents\xamarin batch april\globalucp\packages\xamarin.forms.2.3.3.180\lib\win81\xamarin.forms.platform.winrt.dll" HashGuid="fe4acc44-27ba-0e4e-a08b-26ae7dccb678" />
+    <ReferenceAssembly PathName="c:\users\asfend\documents\xamarin batch april\globalucp\packages\xamarin.forms.2.3.3.180\lib\win81\xamarin.forms.platform.winrt.tablet.dll" HashGuid="6cda1a83-1d8e-d2d4-211d-d5f3a06554ab" />
+    <ReferenceAssembly PathName="c:\users\asfend\documents\xamarin batch april\globalucp\packages\xamarin.forms.2.3.3.180\lib\win81\xamarin.forms.xaml.dll" HashGuid="964969a0-caee-7d9d-82cd-9d1d01056ded" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
